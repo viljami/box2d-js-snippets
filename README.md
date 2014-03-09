@@ -1,5 +1,12 @@
-# Box2d - Snippets
+# Box2d - JavaScript
 
-Currently my favorite physics engine is Box2d and I like JavaScript. These are test done with Box2d's JS port. ( Note to self: add links later. )
+Box2D is a physics engine. It is originally written with C++. 
+
+ * http://box2d.org/about/
+
+I am using a JavaScript port of Box2d. Box2dWeb is a nice JavaScript port.
+
+ * https://code.google.com/p/box2dweb/
+
 
 
